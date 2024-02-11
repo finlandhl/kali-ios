@@ -54,7 +54,7 @@ We would like to express our gratitude to the open-source community and the deve
 
 ## Contact
 
-For any inquiries or feedback regarding Kali iOS, please reach out to us at (mailto:kali-ios@gmail.com).
+For any inquiries or feedback regarding Kali iOS, please reach out to us at (mailto:kalilinux.forios@gmail.com).
 
 ## Disclaimer
 
@@ -71,7 +71,7 @@ As a donor or sponsor, you become a valued member of our community, playing a si
 
 To show our gratitude, we will prominently feature the names or logos of our sponsors on the project's documentation and website, highlighting your support and recognition within the cybersecurity community.
 
-If you would like to make a donation or discuss sponsorship opportunities, please reach out to us at (mailto:kali-ios@gmail.com). We are excited to explore potential partnerships and welcome the chance to discuss how your contributions can make a difference.
+If you would like to make a donation or discuss sponsorship opportunities, please reach out to us at (mailto:kalilinux.forios@gmail.com). We are excited to explore potential partnerships and welcome the chance to discuss how your contributions can make a difference.
 
 Together, let's push the boundaries of mobile security and empower individuals to bring the power of Kali Linux to iOS devices. We sincerely thank you for considering supporting Kali iOS and look forward to the possibility of collaborating with you.
 
