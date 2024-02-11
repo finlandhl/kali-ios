@@ -5,13 +5,17 @@ This project is exciting and aims to bring the power and flexibility of Kali Lin
 ## Requirements
 
 - Device: iPhone 12 and higher
+  
 - Memory: A minimum of 7 GB of memory is required.
-- Terminal emulator: You can download the iSH Shell from the App Store using the following link: [iSH Shell Download](https://apps.apple.com/gb/app/ish-shell/id1436902243)
-- OS: To run the custom Kali rootfs, you can download it from the following link: [Custom Kali rootfs Download](https://drive.google.com/file/d/1XP5bsMfXF_YKOlYMN7uqHle1QOgwn8mc/view?usp=drivesdk) which contains bug fixes. or you can download official ones from Kali website.
+  
+- Terminal emulator: You MUST download the iSH Shell from the App Store using the following link: [iSH Shell Download](https://apps.apple.com/gb/app/ish-shell/id1436902243)
+  
+- OS: To run our custom Kali rootfs, which contains bug fixes, please download it from the following link: [Custom Kali rootfs Download](https://drive.google.com/file/d/1XP5bsMfXF_YKOlYMN7uqHle1QOgwn8mc/view?usp=drivesdk) Or download official one from Kali website.
 
 Please ensure that your device meets the specified requirements before proceeding with the installation and usage of the iSH Shell and custom Kali rootfs.
 
 If you have any further questions or require assistance, please feel free to ask.
+
 ## Features
 
 - Access Kali Linux: Utilize the complete suite of penetration testing and security tools that Kali Linux offers, directly from your iOS device.
@@ -26,14 +30,27 @@ If you have any further questions or require assistance, please feel free to ask
 
 To use Kali iOS, follow these steps:
 
-1. Install ISH terminal emulator app on your iOS device from Appstore https://apps.apple.com/gb/app/ish-shell/id1436902243
+1. Install ISH terminal emulator app on your iOS device from Appstore (see link in Requirements field)
 
-2. Clone the Kali iOS project from GitHub:   ```   git clone https://github.com/yourusername/kali-ios.git   ```
+2. Download our custom Kali rootfs tar archive of ~ 3GB (see link in Requirements field)
+
 3. Launch ISH from your device
 
-4. Run the startup script to initiate the Kali Linux environment:   ```   ./kali.sh   ```
+4. From ISH app :
+   - Go to <Settings>
+   - Click on <Filesystems>
+   - Click on <Import>
+   - Navigate to the directory you stored the Kali rootfs tar archive (only .tar.gz is compatible) and select it
+   - Wait for ISH app to fully import it
+   - Select your Kali importation
+   - And, finally click on <Boot From This Filesystem>
+   - ISH app will crash and doooon't worry, it's normal! launch ISH app again and wait until it boots to the new filesystem
 
-5. You are now ready to use Kali Linux in text mode on your iOS device.
+5. Now you're in Alpine, which serves as recovery os. From here, run the startup script to initiate the Kali Linux environment:   ```   ./kali.sh   ```
+
+6. CONGRATULATIONS!!! You are now ready to use full Kali Linux in text mode on your iOS device
+
+7. To exit Kali environment, simply type  ```   exit   ```
 
 ## Contributing
 
