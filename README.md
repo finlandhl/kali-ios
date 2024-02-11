@@ -2,6 +2,10 @@
 
 This project is exciting and aims to bring the power and flexibility of Kali Linux to iOS devices. It enables users to access Kali Linux in text mode through a terminal emulator on their iOS devices. It opens up a whole new realm of possibilities for security professionals, enthusiasts, and researchers, allowing them to conduct security assessments and investigations seamlessly on the go.
 
+## Demo
+
+[Kali ios Demo - Youtube](https://youtube.com/shorts/FXRcoyhpIis?si=Vc2z5c0ExcKBH4fa)
+
 ## Requirements
 
 - Device: iPhone 12 and higher
