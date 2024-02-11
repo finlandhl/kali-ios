@@ -2,6 +2,16 @@
 
 This project is exciting and aims to bring the power and flexibility of Kali Linux to iOS devices. It enables users to access Kali Linux in text mode through a terminal emulator on their iOS devices. It opens up a whole new realm of possibilities for security professionals, enthusiasts, and researchers, allowing them to conduct security assessments and investigations seamlessly on the go.
 
+## Requirements
+
+- Device: iPhone 12 and higher
+- Memory: A minimum of 7 GB of memory is required.
+- Terminal emulator: You can download the iSH Shell from the App Store using the following link: [iSH Shell Download](https://apps.apple.com/gb/app/ish-shell/id1436902243)
+- OS: To run the custom Kali rootfs, you can download it from the following link: [Custom Kali rootfs Download](https://drive.google.com/file/d/1XP5bsMfXF_YKOlYMN7uqHle1QOgwn8mc/view?usp=drivesdk) which contains bug fixes. or you can download official ones from Kali website.
+
+Please ensure that your device meets the specified requirements before proceeding with the installation and usage of the iSH Shell and custom Kali rootfs.
+
+If you have any further questions or require assistance, please feel free to ask.
 ## Features
 
 - Access Kali Linux: Utilize the complete suite of penetration testing and security tools that Kali Linux offers, directly from your iOS device.
