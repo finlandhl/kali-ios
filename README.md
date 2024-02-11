@@ -37,13 +37,13 @@ To use Kali iOS, follow these steps:
 3. Launch ISH from your device
 
 4. From ISH app :
-   - Go to <Settings>
-   - Click on <Filesystems>
-   - Click on <Import>
+   - Go to [Settings]
+   - Click on [Filesystems]
+   - Click on [Import]
    - Navigate to the directory you stored the Kali rootfs tar archive (only .tar.gz is compatible) and select it
    - Wait for ISH app to fully import it
    - Select your Kali importation
-   - And, finally click on <Boot From This Filesystem>
+   - And, finally click on [Boot From This Filesystem]
    - ISH app will crash and doooon't worry, it's normal! launch ISH app again and wait until it boots to the new filesystem
 
 5. Now you're in Alpine, which serves as recovery os. From here, run the startup script to initiate the Kali Linux environment:   ```   ./kali.sh   ```
