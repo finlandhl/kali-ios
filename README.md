@@ -14,9 +14,9 @@ This project is exciting and aims to bring the power and flexibility of Kali Lin
   
 - Terminal emulator: You MUST download the iSH Shell from the App Store using the following link: [iSH Shell Download](https://apps.apple.com/gb/app/ish-shell/id1436902243)
   
-- OS: To run our custom Kali rootfs, which contains bug fixes, please download it from the following link: [Custom Kali rootfs Download](https://drive.google.com/file/d/1XP5bsMfXF_YKOlYMN7uqHle1QOgwn8mc/view?usp=drivesdk) Or download official one from Kali website.
+- OS: To run our custom Kali rootfs, which contains bug fixes, and some improvements please download it from our latest release text file. This text contains necessary links and instructions to guide your experience inside Kali-ios.
 
-Please ensure that your device meets the specified requirements before proceeding with the installation and usage of the iSH Shell and custom Kali rootfs.
+You must ensure that your device meets the specified requirements before proceeding with the installation and usage of the iSH Shell and Kali-ios.
 
 If you have any further questions or require assistance, please feel free to ask.
 
