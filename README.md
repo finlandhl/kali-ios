@@ -58,22 +58,7 @@ To use Kali iOS, follow these steps:
 
 ## Contributing
 
-We welcome contributions to the Kali iOS project! If you would like to contribute, follow these steps:
-
-1. Fork the repository on GitHub.
-
-2. Create a new branch from the main branch with a descriptive name:   ```   git checkout -b feature/new-feature   ```
-
-3. Make your desired changes, ensuring adherence to coding standards and best practices.
-
-4. Commit your changes with clear and concise commit messages:   ```   git commit -am 'Add new feature'   ```
-
-5. Push your branch to your forked repository:   ```   git push origin feature/new-feature   ```
-
-6. Open a pull request on the main repository to merge your changes.
-
-
-Please ensure that your contributions align with the project's goals and follow the code of conduct.
+We welcome contributions to the Kali iOS project! If you would like to contribute, feel free to contact me using the provided email address.
 
 ## License
 
